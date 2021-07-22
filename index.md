@@ -76,6 +76,8 @@ KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/KiwiChat/KiwiChat#contributing).
 
+[KiwiChat GitHub contributors](https://github.com/KiwiChat/KiwiChat/graphs/contributors).
+
 #### Thank you to the contributors of Just the Docs!
 
 <ul class="list-style-none">

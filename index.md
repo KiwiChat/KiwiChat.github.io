@@ -2,25 +2,32 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "KiwiChat NextClient WordPress Plugin."
 permalink: /
 ---
 
-# Focus on writing good documentation
+# KiwiChat NextClient WordPress plugin
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
+
+KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## Getting started
+## Description
 
-### Dependencies
-
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+How to use KiwiChat…
+Finally there is an IRC plugin for WordPress that works!
+KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
+To use this plugin:
+1. simply download and extract it into your plugins folder
+2. configure your settings in the WordPress dashboard
+3. then drop the short tag ```[kiwichat]``` into your page or post.
+Instantly your users will be able to stay connected via IRC.
 
 ### Quick start: Use as a GitHub Pages remote theme
 

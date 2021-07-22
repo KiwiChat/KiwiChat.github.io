@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: KiwiChat
 description: KiwiChat NextClient WordPress Plugin
-baseurl: "/wp" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kiwichat.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -98,7 +98,7 @@ gh_edit_branch: "master" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
-color_scheme: dark
+color_scheme: nil
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

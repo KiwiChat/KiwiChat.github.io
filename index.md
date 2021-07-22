@@ -76,18 +76,8 @@ Instantly your users will be able to stay connected via IRC.
 
 ![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
   
-  
 ---
-
-## About the project
-
-KiwiChat is &copy; 2019-{{ "now" | date: "%Y" }} by [Oscar BaiatRau](http://showchat.tk).
 
 ### License
 
 KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3.0.html).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/KiwiChat/KiwiChat/graphs/contributors).

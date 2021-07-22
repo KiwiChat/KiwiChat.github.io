@@ -1,4 +1,4 @@
-# This site uses Just the Docs, a documentation theme for Jekyll.
+## This site uses [Just the Docs](https://kiwichat.github.io/assets/images/kiwichat-webpage.png), a documentation theme for Jekyll.
 
 ## License
 

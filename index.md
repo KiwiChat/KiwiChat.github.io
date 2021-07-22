@@ -55,10 +55,10 @@ Instantly your users will be able to stay connected via IRC.
 
 ## Download
 
-[![alt text][image]][hyperlink]
+[![Download KiwiChat Plugin][image]][hyperlink]
 
   [hyperlink]: https://wordpress.org/plugins/kiwichat/
-  [image]: https://kiwichat.github.io/kiwichat-300x150.png
+  [image]: https://kiwichat.github.io/assets/images/kiwichat-300x150.png
   
  ---
  

@@ -42,14 +42,21 @@ Instantly your users will be able to stay connected via IRC.
   [hyperlink]: https://wordpress.org/plugins/kiwichat/
   [image]: https://kiwichat.github.io/kiwichat-300x150.png
   
-  
-  ## Screenshots
+ ---
+ 
+## Screenshots
 
 ![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
 
+---
+
 ![Capture KiwiChat Home Screen](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-2.png "Capture KiwiChat Home Screen")
 
+---
+
 ![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
+
+---
 
 ![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
   

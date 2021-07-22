@@ -48,8 +48,10 @@ Instantly your users will be able to stay connected via IRC.
 ## Installation
 
 1. Upload the ```kiwichat``` folder to the ```/wp-content/plugins/``` directory.
-1. Activate the plugin through the "Plugins" menu in WordPress.
-1. Place ```[kiwichat]``` shortcode in your pages or posts.
+2. Activate the plugin through the "Plugins" menu in WordPress.
+3. Place ```[kiwichat]``` shortcode in your pages or posts.
+4. You can specify channel for a specific page instead of using the default channel configured with: ```[kiwichat chan=#WebChat]```
+
 
 ## Download
 
@@ -77,6 +79,8 @@ Instantly your users will be able to stay connected via IRC.
 ![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
   
 ---
+
+### Current stable version of the plugin 5.0
 
 ### License
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pull Requests
-permalink: /pullrequests
+permalink: /pull
 nav_order: 2
 ---
 

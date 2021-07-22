@@ -6,16 +6,6 @@ description: "KiwiChat NextClient WordPress Plugin."
 permalink: /
 ---
 
-# KiwiChat NextClient WordPress plugin
-{: .fs-9 }
-
-Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
-
-KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
-{: .fs-6 .fw-300 }
-
-[View it on GitHub](https://github.com/KiwiChat/wp-kiwichat){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on WordPress](https://wordpress.org/plugins/kiwichat/){: .btn .fs-5 .mb-4 .mb-md-0 }
-
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 
 <script>
@@ -31,6 +21,16 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
+
+# KiwiChat NextClient WordPress plugin
+{: .fs-9 }
+
+Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient, with 6 new themes
+
+KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
+{: .fs-6 .fw-300 }
+
+[View it on GitHub](https://github.com/KiwiChat/wp-kiwichat){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on WordPress](https://wordpress.org/plugins/kiwichat/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

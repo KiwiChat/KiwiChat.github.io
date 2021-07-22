@@ -47,7 +47,7 @@ Instantly your users will be able to stay connected via IRC.
 
 ## Installation
 
-1. Upload the ```kiwichat``` folder to the "/wp-content/plugins/" directory.
+1. Upload the ```kiwichat``` folder to the ```/wp-content/plugins/``` directory.
 1. Activate the plugin through the "Plugins" menu in WordPress.
 1. Place ```[kiwichat]``` shortcode in your pages or posts.
 

@@ -5,7 +5,10 @@ permalink: /about
 nav_order: 5
 ---
 
-## Support >> Plugin kiwiChat NextClient
+## About the project
 
-Do you have something to say? Do you need help?
-See the support forum [Support Forum](https://wordpress.org/support/plugin/kiwichat/).
+KiwiChat is &copy; 2019-{{ "now" | date: "%Y" }} by [Oscar BaiatRau](http://showchat.tk).
+
+### License
+
+KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3.0.html).

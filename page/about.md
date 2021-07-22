@@ -1,26 +1,14 @@
 ---
 layout: default
 title: About
+permalink: /about
 nav_order: 4
 ---
 
-# Configuration
+## About the project
 
-You can reference multiple collections.
-This creates categories in the navigation with the configured names.
-```yaml
-collections:
-  docs:
-    permalink: "/:collection/:path/"
-    output: true
-  tutorials:
-    permalink: "/:collection/:path/"
-    output: true
+KiwiChat is &copy; 2019-{{ "now" | date: "%Y" }} by [Oscar BaiatRau](http://showchat.tk).
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-    tutorials:
-      name: Tutorials
-```
+### License
+
+KiwiChat is distributed by an [GPLv3 or later](http://www.gnu.org/licenses/gpl-3.0.html).

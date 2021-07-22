@@ -14,7 +14,7 @@ Try the new IRC KiwiChat WordPress plugin that works! based on kiwiirc nexclient
 KiwiChat is an online chat client, your IRC client based on kiwiirc Add your networks. Join your channels.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[[View it on GitHub](https://github.com/KiwiChat/wp-kiwichat){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on WordPress](https://wordpress.org/plugins/kiwichat/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -29,9 +29,32 @@ To use this plugin:
 3. then drop the short tag ```[kiwichat]``` into your page or post.
 Instantly your users will be able to stay connected via IRC.
 
-### Quick start: Use as a GitHub Pages remote theme
+## Installation
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+1. Upload the "kiwichat" folder to the "/wp-content/plugins/" directory.
+1. Activate the plugin through the "Plugins" menu in WordPress.
+1. Place "[kiwichat]" shortcode in your pages or posts.
+
+## Download
+
+[![alt text][image]][hyperlink]
+
+  [hyperlink]: https://wordpress.org/plugins/kiwichat/
+  [image]: https://kiwichat.github.io/kiwichat-300x150.png
+  
+  
+  ## Screenshots
+
+![Plugin configuration](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-1.png "Plugin configuration options page")
+
+![Capture KiwiChat Home Screen](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-2.png "Capture KiwiChat Home Screen")
+
+![Capture KiwiChat Online Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-3.png "Capture KiwiChat Online Chat")
+
+![KiwiChat Connected In Chat](https://raw.githubusercontent.com/KiwiChat/wp-kiwichat/master/assets/screenshot-4.png "KiwiChat Connected In Chat")
+  
+  
+3. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
 remote_theme: pmarsceill/just-the-docs
 ```
@@ -75,7 +98,7 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ## About the project
 
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
+Just the Docs is &copy; 2019-{{ "now" | date: "%Y" }} by [BaiatRau](http://showchat.tk).
 
 ### License
 

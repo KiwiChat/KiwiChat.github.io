@@ -27,11 +27,17 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Thank you to the contributors of 
 
-<a href="https://github.com/kiwichat/wp-kiwichat/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kiwichat/wp-kiwichat" />
-</a>
+[![alt text][1]][2]
 
-Made with [contributors-img](https://contrib.rocks).
+[1]: https://avatars.githubusercontent.com/u/52504536?s=60&v=4
+"KiwiChat GitHub"
+[2]: https://github.com/KiwiChat
 
+
+[![alt text][3]][4]
+
+[3]: https://avatars.githubusercontent.com/u/34014529?s=60&v=4
+"Show-Chat GitHub"
+[4]: https://github.com/Show-Chat
 
 This project follows the [all-contributors](https://github.com/KiwiChat/wp-kiwichat/graphs/contributors) specification. Contributions of any kind welcome!

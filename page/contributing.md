@@ -25,3 +25,13 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
+## Thank you to the contributors of 
+
+<a href="https://github.com/kiwichat/wp-kiwichat/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=kiwichat/wp-kiwichat" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
+
+This project follows the [all-contributors](https://github.com/KiwiChat/wp-kiwichat/graphs/contributors) specification. Contributions of any kind welcome!

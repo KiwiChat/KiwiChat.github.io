@@ -23,7 +23,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/KiwiChat/wp-kiwichat 
+Bug reports and pull requests are welcome on GitHub at https://github.com/KiwiChat/wp-kiwichat.
 
 ### Submitting code changes:
 

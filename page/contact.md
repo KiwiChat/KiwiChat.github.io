@@ -21,6 +21,16 @@ nav_order: 6
           <option>Bitbucket</option>
         </select>
       </div>
+ 
+           <div class="control-group form-group">
+            <div class="controls">
+              <label>Message:</label>
+              <textarea rows="10" cols="100" class="form-control" name="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+            </div>
+          </div>
+          <div id="success"></div>
+          <!-- For success/fail messages -->
+ 
       <hr>
       <div class="form-group mt-3">
         <label class="mr-2">Upload your CV:</label>

@@ -2,7 +2,7 @@
 layout: default
 title: Custom KiwiChat Generator
 permalink: /custom-kiwichat
-nav_order: 5
+nav_order: 7
 ---
 <button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
 

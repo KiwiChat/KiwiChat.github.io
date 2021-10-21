@@ -25,4 +25,4 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 ### Create your amazing KiwiChat based plugin
 
-Custom KiwiChat WordPress Plugin Generator, generate a custom zip file based on the KiwiChat is an online chat client, your IRC client based on kiwiirc supports direct websocket connections to IRC servers [BUILD](https://custom.kiwichat.ml/).
+Custom KiwiChat WordPress Plugin Generator, generate a custom zip file based on the KiwiChat is an online chat client, your IRC client based on kiwiirc supports direct websocket connections to IRC servers [https://custom.kiwichat.ml](https://custom.kiwichat.ml/).

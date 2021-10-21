@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Custom KiwiChat Generator
 permalink: /custom-kiwichat
 nav_order: 5
 ---

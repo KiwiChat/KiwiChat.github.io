@@ -80,8 +80,8 @@ Instantly your users will be able to stay connected via IRC.
   
 ---
 
-### Current stable version of the plugin ```5.0```
-### Last update ```23/07/2021```
+### Current stable version of the plugin ```6.0```
+### Last update ```30/08/2022```
 
 ### License
 
